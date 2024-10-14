@@ -4,7 +4,7 @@
 
 <p align="center"> 2311102189 </p>
 
-## Code
+## Source Code
 
 ```go
 package main
